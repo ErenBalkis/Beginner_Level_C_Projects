@@ -1,2 +1,2 @@
-# Basit-C-Projeleri
-C dilini öğrenirken yazdığım bazı kodlar
+# Beginner Level C Projects
+Codes that I wrote while learning the C language and thought might be useful.
