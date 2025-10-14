@@ -5,12 +5,12 @@
 
 /* Telefon Rehberi (Vector Kullanarak):
 
-Kisi adında bir struct veya class oluşturun. Üyeleri: string ad, string telefonNumarasi.
+Kisi adında bir class oluşturun. Üyeleri: string ad, string telefonNumarasi.
 main fonksiyonunda bir std::vector<Kisi> oluşturun.
 Kullanıcıya 3 seçenek sunun: 1- Kişi Ekle, 2- Kişileri Listele, 3- Çıkış.
 Kullanıcı 1'i seçerse, yeni bir isim ve numara alıp vektöre Kisi nesnesi olarak ekleyin.
 Kullanıcı 2'yi seçerse, vektördeki tüm kişilerin bilgilerini döngü ile ekrana yazdırın.
-Kullanıcı 3'ü seçerse programdan çıkın. Döngü while ile kontrol edilebilir. */
+Kullanıcı 3'ü seçerse programdan çıkın. Döngü while ile kontrol edilsin. */
 
 class Kisi {
 public:
