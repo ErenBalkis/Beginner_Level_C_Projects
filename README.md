@@ -1,4 +1,4 @@
-# Beginner Level C Projects
+# Beginner Level C/C++ Projects
 Codes that I wrote while learning the C language and thought might be useful.
 Short descriptions and quick run instructions for small learning projects.
 
