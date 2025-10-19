@@ -8,6 +8,7 @@
  * Armstrong Sayısı: Bir sayının Armstrong sayısı olup olmadığını
  * kontrol eden bool isArmstrong(int sayi) fonksiyonunu yazın.
  * (Armstrong sayısı: Basamaklarının küplerinin toplamına eşit olan sayı)
+ * Bazı örnek Armstrong sayıları = 153, 370, 1634, 9474.
  */
 
 // Bu fonksiyon sayının basamaklarıyla bir vector oluşturur.
